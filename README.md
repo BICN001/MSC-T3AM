@@ -1,0 +1,5 @@
+Notes and Acknowledgements
+
+MSC-Transformer module of the proposed model was adapted based on the Transformer module of EEG-Conformer, the code of which is available at https://github.com/eeyhsong/EEG-Conformer
+
+Channel attention of the proposed model is based on the channel weight of LMDA-Net, the code of which is available at https://github.com/MiaoZhengQing/LMDA-Code
