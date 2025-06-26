@@ -1,5 +1,5 @@
-Notes and Acknowledgements
+This code is for the proposed model MSC-T3AM, which is presented in the below paper.
 
-MSC-Transformer module of the proposed model was adapted based on the Transformer module of EEG-Conformer, the code of which is available at https://github.com/eeyhsong/EEG-Conformer
+MSC-Transformer-Based 3D-Attention with Knowledge Distillation for Multi-Action Classification of Separate Lower Limbs
 
-Channel attention of the proposed model is based on the channel weight of LMDA-Net, the code of which is available at https://github.com/MiaoZhengQing/LMDA-Code
+The full article is available at https://www.sciencedirect.com/science/article/abs/pii/S0893608025006860
